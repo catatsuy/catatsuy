@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am catatsuy (Tatsuya Kaneko). If you want to know my background, you can read it [here](https://github.com/catatsuy/resume) (Japanese version only).
+
 <!--
 **catatsuy/catatsuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
