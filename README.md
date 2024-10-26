@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![catatsuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=catatsuy)
+
 I am catatsuy (Tatsuya Kaneko). If you want to know my background, you can read it [here](https://github.com/catatsuy/resume) (Japanese version only).
 
 <!--
